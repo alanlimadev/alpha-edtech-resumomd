@@ -26,6 +26,7 @@
 - Repositório Remoto
 - Pull Request
 
+![Marcotti](https://media.licdn.com/dms/image/v2/C4E03AQEBIe5pHKjolw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1653049415783?e=1766620800&v=beta&t=s5HBwO0pi7M2An2wqR0ZzeaYiG0D-eNnfw1r9NNV96Y)
 ### HTML
 - HTML 5 - HyperText Markup Language
 
